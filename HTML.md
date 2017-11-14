@@ -21,4 +21,5 @@
 ...
 
 ### Spanish
-...
+- [Codecademy: HTML y CSS](https://www.codecademy.com/es/tracks/html-css-traduccion-al-espanol-america-latina-clone)
+- [Aprende HTML](http://es.html.net/tutorials/html/)
